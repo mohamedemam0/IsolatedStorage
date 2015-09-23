@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMAM</Machine>
+    <WindowsUser>Mohammed</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>511f7a7c-ab41-40cc-9a0e-0840fe20b075</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\mohammed\documents\visual studio 2013\Projects\IsolatedStorage\IsolatedStorage\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E8CA06BB9E137D1F34AB6A85B1FB0CF9F1EDBCB66C23B93D66DA5055DD4133D8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>511f7a7c-ab41-40cc-9a0e-0840fe20b075_1.0.0.0_neutral__ng8fjaqf7gktm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>511f7a7c-ab41-40cc-9a0e-0840fe20b075_ng8fjaqf7gktm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>511f7a7c-ab41-40cc-9a0e-0840fe20b075</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mohammed</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\mohammed\documents\visual studio 2013\Projects\IsolatedStorage\IsolatedStorage\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-10T08:10:04.141</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\IsolatedStorage\IsolatedStorage\bin\Debug\IsolatedStorage.exe">
+      <PackagePath>IsolatedStorage.exe</PackagePath>
+      <Modified>2015-03-10T08:13:13.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\IsolatedStorage\IsolatedStorage\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\IsolatedStorage\IsolatedStorage\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\IsolatedStorage\IsolatedStorage\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\IsolatedStorage\IsolatedStorage\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\IsolatedStorage\IsolatedStorage\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-10T08:10:02.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\IsolatedStorage\IsolatedStorage\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-10T08:13:12.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\IsolatedStorage\IsolatedStorage\bin\Debug\IsolatedStorage.xr.xml">
+      <PackagePath>IsolatedStorage.xr.xml</PackagePath>
+      <Modified>2015-03-10T08:13:12.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\IsolatedStorage\IsolatedStorage\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-10T08:10:02.973</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
